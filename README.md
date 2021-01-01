@@ -1,2 +1,5 @@
-# Amazon_MERN_Project
-Amazon Clone Project, by using MERN
+# amazon-mern47
+
+https://mern-aws.herokuapp.com/
+
+...
